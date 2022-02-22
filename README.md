@@ -30,7 +30,7 @@ ALL CREDITS GOES TO THE BELOVED [DEVELOPER](https://github.com/prgofficial) :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/neera-j/urluploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/SriGuru05/Hotstar-DL-Bot)
 
 #### Run in your VPS
 ```sh
